@@ -1,5 +1,6 @@
 # N-dimensional-Nearest-Neighbours
 # MY FIRST PROJECT
+# Building AI course project
 # NOTE: README FILE NOT COMPLETED YET
 
 <!-- CREDIT: I have used the markdown template for the final project of the Building AI course, 
